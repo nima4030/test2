@@ -1,9 +1,4 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-08 08:19:49
- * @LastEditTime : 2022-03-08 11:27:41
- * @Description  : Instruction dialog
- */
+
 
 import 'package:flutter/material.dart';
 

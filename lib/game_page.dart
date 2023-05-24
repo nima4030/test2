@@ -1,9 +1,4 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-05 20:41:41
- * @LastEditTime : 2022-03-11 14:54:15
- * @Description  : Offline page
- */
+
 
 import 'dart:math';
 

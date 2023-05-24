@@ -125,7 +125,7 @@ class _HomePageState extends State<HomePage> {
                             alignment: Alignment.bottomLeft,
                             child: Padding(
                               padding: const EdgeInsets.only(left: 30.0, bottom: 10.0),
-                              child: Text('WORDLE', style: TextStyle(fontSize: 30.0, fontWeight: FontWeight.w300, color: mode == Brightness.light ? Colors.grey[850]! : Colors.white)),
+                              child: Text('Word Game', style: TextStyle(fontSize: 30.0, fontWeight: FontWeight.w300, color: mode == Brightness.light ? Colors.grey[850]! : Colors.white)),
                             ),
                           ),
                           const Spacer(),

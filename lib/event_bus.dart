@@ -1,9 +1,3 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-05 21:50:33
- * @LastEditTime : 2022-03-07 10:26:04
- * @Description  : Event bus class
- */
 
 typedef EventCallBack = void Function(dynamic args);
 

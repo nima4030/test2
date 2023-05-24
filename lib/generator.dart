@@ -1,9 +1,4 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-06 15:03:57
- * @LastEditTime : 2022-03-11 13:56:33
- * @Description  : Word generator
- */
+
 
 import 'dart:convert';
 import 'dart:io';

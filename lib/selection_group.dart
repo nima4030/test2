@@ -1,9 +1,4 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-09 22:33:34
- * @LastEditTime : 2022-03-10 13:48:48
- * @Description  : 
- */
+
 
 import 'package:flutter/material.dart';
 import './group_shared.dart';

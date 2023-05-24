@@ -1,9 +1,3 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-10 10:35:47
- * @LastEditTime : 2022-03-10 13:06:37
- * @Description  : 
- */
 
 import 'package:flutter/material.dart';
 

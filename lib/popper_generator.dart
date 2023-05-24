@@ -1,9 +1,4 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-08 16:43:19
- * @LastEditTime : 2022-03-08 21:20:21
- * @Description  : Party popper effect generator
- */
+
 
 import 'package:flutter/material.dart';
 import 'dart:math';

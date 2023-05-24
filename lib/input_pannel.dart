@@ -1,9 +1,3 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-05 20:55:53
- * @LastEditTime : 2022-03-11 11:05:10
- * @Description  : Input pannel class
- */
 
 import 'package:flutter/material.dart';
 import 'package:wordle/validation_provider.dart';

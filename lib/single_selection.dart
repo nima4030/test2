@@ -1,9 +1,4 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-09 22:33:41
- * @LastEditTime : 2022-03-11 14:01:14
- * @Description  : Single Selection Box
- */
+
 
 import 'package:flutter/material.dart';
 import 'dart:math';

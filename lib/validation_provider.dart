@@ -1,9 +1,4 @@
-/*
- * @Author       : Linloir
- * @Date         : 2022-03-05 21:40:51
- * @LastEditTime : 2022-03-11 14:54:02
- * @Description  : Validation Provider class
- */
+
 
 import 'package:flutter/material.dart';
 import './event_bus.dart';
